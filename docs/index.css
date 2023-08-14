@@ -1,0 +1,10 @@
+
+.feature {
+    margin: 20px;
+    background-color: #333333;
+    color: whitesmoke;
+    width: 125px;
+    height: 150px;
+    border-style: solid;
+    border-radius: 10px;
+}
