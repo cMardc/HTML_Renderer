@@ -2,7 +2,9 @@
 
 
 ![Static Badge](https://img.shields.io/badge/Language-C++-blue) 
+
 ![GitHub all releases](https://img.shields.io/github/downloads/cMardc/HTML_Renderer/total)
+
 ![GitHub](https://img.shields.io/github/license/cMardc/HTML_Renderer)
 
 <h3>A simple HTML renderer, that let's you to view any webpage in your terminal.</h3>
